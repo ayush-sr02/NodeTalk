@@ -1,4 +1,4 @@
-# ChattyNode
+# Node Talk
 ## "Connect with ease, chat in real-time - with our Node.js powered group chat app!"
 
 It is a Node.js based group chat web application that is a real-time chat platform that allows users to communicate with each other in a group setting. This type of application uses Node.js as its backend framework, which allows for easy scalability, high performance, and efficient handling of multiple concurrent connections.
